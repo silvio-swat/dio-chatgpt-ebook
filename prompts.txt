@@ -1,0 +1,62 @@
+Crie um título de um ebook sobre o tema Tailwind, o ebook é para o nicho de programação e o subnicho é tailwind, um título épico e curto, e tenha uma temática estilo Harry Potter, me liste 10 variações
+
+Aqui estão 10 títulos épicos para o seu eBook sobre Tailwind, inspirados no universo de Harry Potter:
+"Tailwind e o Feitiço do CSS Perfeito"
+"O Grimoire dos Estilos: Dominando Tailwind"
+"Tailwind e a Arte das Classes Encantadas"
+"O Código Secreto de Tailwind: Feitiços de Estilo"
+"Tailwind e a Câmara dos Layouts Responsivos"
+"O Códice dos Bruxos do CSS: Tailwind Desvendado"
+"Tailwind e o Manto da Elegância no Front-End"
+"O Livro dos Feitiços Visuais: Tailwind na Prática"
+"Tailwind e a Pedra Filosofal do Design"
+"O Cálice de Tailwind: O Poder do CSS Mágico"
+
+------------------------------------------------------
+
+Combine os dois títulos abaixo para gerar títulos mais poderosos
+"Tailwind e o Manto da Elegância no Front-End"
+"Tailwind e a Pedra Filosofal do Design"
+
+Aqui estão algumas combinações poderosas dos dois títulos:
+"Tailwind e o Manto Filosofal da Elegância no Front-End"
+"Tailwind e a Pedra da Elegância: O Manto Filosofal do Design"
+"Tailwind: O Manto da Elegância e a Pedra Filosofal do Design"
+"Tailwind e o Manto da Pedra Filosofal: A Elegância no Front-End"
+"O Manto Filosofal de Tailwind: Elegância e Design no Front-End"
+"Tailwind e a Pedra Filosofal: O Manto da Elegância no Front-End"
+"Tailwind: A Pedra Filosofal do Design e o Manto da Elegância"
+"Tailwind: O Manto da Elegância e o Segredo da Pedra Filosofal"
+"Tailwind e o Manto Filosofal: Transformando Elegância em Design"
+"O Manto da Elegância de Tailwind: A Pedra Filosofal do Front-End"
+
+------------------------------------------------------
+
+Escolhido:
+"Tailwind e o Manto Filosofal da Elegância no Front-End"
+
+------------------------------------------------------
+
+Layout Powerpoint:
+Regras
+- Use Fontes múltiplas de 8
+- Utilize poucos textos
+- Ter um layout agradável
+
+- 8px, 16px, 24px
+
+------------------------------------------------------
+Texto para ebook
+
+Faça um texto para ebook, com foco em Tailwind, listando os principais seletores Tailwind com exemplos de códigos
+
+{regras}
+
+>Explique sempre de uma maneira simples
+>Deixe o texto enxuto
+>Sempre traga exemplos de código em contextos reais
+>Crie um nome
+
+
+
+
